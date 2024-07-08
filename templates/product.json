@@ -100,10 +100,11 @@
             "share_label": "Share"
           }
         },
-        "custom_liquid_W94qcC": {
-          "type": "custom_liquid",
+        "adobeflow_star_rating_gAwGjr": {
+          "type": "shopify:\/\/apps\/adobeflow\/blocks\/star_rating\/84cbf41a-3a4f-48ab-85bb-561462d73c69",
           "settings": {
-            "custom_liquid": "{% render 'stars' %}"
+            "product": "{{product}}",
+            "colour": "#ff0000"
           }
         }
       },
@@ -121,7 +122,7 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share",
-        "custom_liquid_W94qcC"
+        "adobeflow_star_rating_gAwGjr"
       ],
       "settings": {
         "enable_sticky_info": true,
