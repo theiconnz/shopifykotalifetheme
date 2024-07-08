@@ -105,13 +105,6 @@
           "settings": {
             "custom_liquid": "{% render 'stars' %}"
           }
-        },
-        "adobeflow_star_rating_LrJWq9": {
-          "type": "shopify:\/\/apps\/adobeflow\/blocks\/star_rating\/84cbf41a-3a4f-48ab-85bb-561462d73c69",
-          "settings": {
-            "product": "{{product}}",
-            "colour": "#ff0000"
-          }
         }
       },
       "block_order": [
@@ -128,8 +121,7 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share",
-        "custom_liquid_W94qcC",
-        "adobeflow_star_rating_LrJWq9"
+        "custom_liquid_W94qcC"
       ],
       "settings": {
         "enable_sticky_info": true,
