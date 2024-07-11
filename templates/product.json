@@ -99,6 +99,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "adobeflow_star_rating_JEcyDh": {
+          "type": "shopify:\/\/apps\/adobeflow\/blocks\/star_rating\/84cbf41a-3a4f-48ab-85bb-561462d73c69",
+          "settings": {
+            "product": "",
+            "colour": "#ff0000"
+          }
         }
       },
       "block_order": [
@@ -114,7 +121,8 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share"
+        "share",
+        "adobeflow_star_rating_JEcyDh"
       ],
       "settings": {
         "enable_sticky_info": true,
