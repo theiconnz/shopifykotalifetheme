@@ -218,37 +218,14 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_a8JeXt": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_cJahN9": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Instagram<\/p>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_cJahN9"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1726104110143d6fb8": {
       "type": "apps",
       "blocks": {
         "instafeed_app_block_KaArjr": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "title": "",
-            "title_color": "",
+            "title": "Instagram Feed",
+            "title_color": "#001785",
             "alignment": "center",
             "background_color": "",
             "html_area": ""
@@ -270,7 +247,6 @@
     "collage",
     "video",
     "multicolumn",
-    "rich_text_a8JeXt",
     "1726104110143d6fb8"
   ]
 }
